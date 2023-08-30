@@ -2,3 +2,4 @@
 Nama : Caressa Putri Yuliantoro
 NPM : 2206081742
 Kelas : PBP A
+Jurusan : Ilmu Komputer
